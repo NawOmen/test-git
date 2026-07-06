@@ -1,2 +1,0 @@
-Huskell Curry
-Data science
